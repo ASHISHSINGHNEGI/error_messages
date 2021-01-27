@@ -5,7 +5,7 @@ import numpy as np
 path = "IBM-313 Marks.xlsx"
 table =pd.read_excel('IBM-313 Marks.xlsx')
 
-error
+'''error
 
 ---------------------------------------------------------------------------
 XLRDError                                 Traceback (most recent call last)
@@ -63,3 +63,5 @@ XLRDError                                 Traceback (most recent call last)
     172     bk = open_workbook_xls(
 
 XLRDError: Excel xlsx file; not supported
+
+'''
